@@ -1,0 +1,3 @@
+﻿  Coordinator.cpp
+F:\3k2sem\RIS\L2\Coordinator\Coordinator\Coordinator.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Coordinator.vcxproj -> F:\3k2sem\RIS\L2\Coordinator\Debug\Coordinator.exe

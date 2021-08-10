@@ -1,0 +1,25 @@
+{
+  "timeService": {
+    "127.0.0.2": {
+      "host": "127.0.0.2",
+      "rang": 2
+    },
+    "127.0.0.3": {
+      "host": "127.0.0.3",
+      "rang": 1
+    },
+    "127.0.0.4": {
+      "host": "127.0.0.4",
+      "rang": 3
+    },
+    "broadcastHost": "127.255.255.255",
+    "port": 5555,
+    "timeServicesCount": 3,
+    "checkCoordinatorInterval": 5000,
+    "checkCoordinatorAttempts": 3
+  },
+  "dispatcher": {
+    "host": "127.0.0.1",
+    "port": 5555
+  }
+}
